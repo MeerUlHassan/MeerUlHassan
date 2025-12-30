@@ -7,3 +7,19 @@
 </h1>
 
 ### A full-stack AI engineer passionate about building Intelligent, Data Engineered, functional, and user-centric Software/Web applications.
+
+- 🌱 I’m currently Building **[Email Marketing SaaS AI](https://email-saas-netconsult.lovable.app/)**
+- 💬 Ask me about **Python, FastAPI, AI/ML, React...or anything [here](https://github.com/MeerUlHassan/MeerUlHassan/issues)**
+
+<br>
+
+<div align="center">
+  <a href="meer.hassan1227@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/meer-ul-hassan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
