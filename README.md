@@ -30,16 +30,6 @@
 <hr>
 - Did I grab your interest? See more here <b><a href="https://meer-portfolio-rouge.vercel.app/" target="_blank">Personal Portfolio</a></b>
 
-<hr>
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MeerUlHassan&show_icons=true)
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeerUlHassan&layout=compact&theme=gruvbox"/>
-</p>
 
 
 
